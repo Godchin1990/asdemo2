@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\asdemo\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "C:\\asdemo\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\color\\com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "C:\\asdemo\\HelloFacebookSample\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "C:\\asdemo\\HelloFacebookSample\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\color\\com_facebook_send_button_text_color.xml"
+    }
+]

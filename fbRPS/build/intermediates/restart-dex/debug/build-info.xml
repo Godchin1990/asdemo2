@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="hdpi"
+    format="7"
+    timestamp="749934328244266" >
+
+    <task
+        name="javac"
+        duration="903" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="555" />
+    <task
+        name="verifier"
+        duration="222" />
+
+    <artifact
+        location="C:\asdemo\fbRPS\build\outputs\apk\fbRPS-x86-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="749934328244266" >
+        <artifact
+            location="C:\asdemo\fbRPS\build\outputs\apk\fbRPS-x86-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
